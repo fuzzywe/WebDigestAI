@@ -27,5 +27,5 @@ Created a **highly responsive UI using ReactJS and Tailwind CSS**, delivering a 
  **Powerful solution** for time-constrained professionals, students, and organizations who need to extract insights from large volumes of web content **without wasting time on irrelevant information**.
 
 ---
-
+[DEMO](https://summarizer-master-7khlgpy5c-jananis-projects-21b12255.vercel.app/)
  Businesses, professionals, researchers, and students can instantly summarize customer reviews, research papers, or lengthy articles to extract actionable insights, enabling faster decision-making without manually analyzing large volumes of text.
