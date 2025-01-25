@@ -1,6 +1,8 @@
 # QUICKSCRIBE
 
 
+[DEMO](https://summarizer-master-fuzzywe-jananis-projects-21b12255.vercel.app/)
+
 
 **Technologies Used:** Langchain, Gemini API, ReactJS, Tailwind CSS, ChromaDB, BeautifulSoup4, Web Scraping.
 
